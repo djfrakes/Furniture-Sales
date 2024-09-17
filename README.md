@@ -64,5 +64,4 @@ Discount Percentage vs Sales: A scatter plot to analyze the effect of discounts 
 2. There is also minimal correlation between discount_percentage and sales.
 3. Some products are running at a loss, as identified through negative revenue values.
 
-### License
-This project is licensed under the MIT License.
+
