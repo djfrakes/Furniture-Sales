@@ -51,8 +51,10 @@ Discount Percentage vs Sales: A scatter plot to analyze the effect of discounts 
 
 #### Example Output
 1. Scatter Plot: Price vs Sales
-2. Correlation Heatmap
+![Scatter_Plot](https://github.com/user-attachments/assets/79d11238-4ae2-44ef-a7dc-6e47ab55d579)
 
+2. Correlation Heatmap
+![Heatmap](https://github.com/user-attachments/assets/42d5e6cd-d5af-4fcb-ac80-b5c1cdbeb4e5)
 
 ### Results
 1. The scatter plot of price vs sales shows no strong correlation (correlation coefficient ~ -0.006).
