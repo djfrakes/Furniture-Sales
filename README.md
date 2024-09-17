@@ -9,6 +9,9 @@
 ### Project Overview
 This project performs an exploratory data analysis (EDA) of a furniture sales dataset. The goal is to uncover insights such as summary statistics, correlations between different variables, and identifying products that result in a loss. Key visualizations like scatter plots and a heatmap are generated to better understand the relationships between different features like price, sales, and discount_percentage.
 
+### Tools
+- Python
+
 ### Dataset
 
 The dataset used in this analysis is sourced from Kaggle.
